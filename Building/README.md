@@ -1,11 +1,11 @@
-#Building using Dynamo
+# Building using Dynamo
 ---
 
 This first assignment will be to build a _very_ rudimentary building using Dynamo! The purpose is to help us get an understanding of where we stand with programming. 
 
 This assignment is a well defined problem designed to give you an introduction on what it means to code. I will be making complimentary documents that can act as a guide for teaching first time programmers how to "think" like a programmer. 
 
-##Problem Statement
+## Problem Statement
 
 Using Python and Dynamo, build a basic building that satisfies the following criteria. 
 
@@ -15,13 +15,15 @@ Using Python and Dynamo, build a basic building that satisfies the following cri
 
 We will use the generic slab, wall, and inclined roof. 
 
-##Supplimentary Graphic. 
+## Supplimentary Graphic. 
 
-![Building Grid](https://github.com/bromontana/Dynamo-Workshops/Building/BuildingGrid.png)
+![Building Grid](https://raw.githubusercontent.com/bromontana/Dynamo-Workshops/master/Building/BuildingGrid.png)
 
 
 Use this as a guide. 
 
+
+## Resources
 If you need python resources you can use these links: 
 
 [The Official Python 3 Documentation.](https://docs.python.org/3/) It may be a little uglier than other websires but with a little patience it can help you understand what all the functions are and what they take in/push out.
