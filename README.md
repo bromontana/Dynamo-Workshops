@@ -4,7 +4,7 @@ Welcome to the Dynamo Workshop Resource! This repository will include documents 
 
 ## Contents
 
-- (Building)[https://github.com/bromontana/Dynamo-Workshops/tree/master/Building]
+- [Building](https://github.com/bromontana/Dynamo-Workshops/tree/master/Building)
   - This directory is relevent to documents related to _building_ using dynamo. 
 - ~~Modifying~~
   - ~~This directory will include documents relevant to _modyfying existing projects_ using dynamo.~~
